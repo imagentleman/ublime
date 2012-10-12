@@ -56,6 +56,16 @@ Hot Pink. I think Paul Irish would be proud.
 
 ![Arabian Nights screenshot 4](http://imagentleman.github.com/ublime/arabian4.png)
 
+## Chanfle
+
+![Chanfle screenshot 1](http://imagentleman.github.com/ublime/chanfle1.png)
+
+![Chanfle screenshot 2](http://imagentleman.github.com/ublime/chanfle2.png)
+
+![Chanfle screenshot 3](http://imagentleman.github.com/ublime/chanfle3.png)
+
+![Chanfle screenshot 4](http://imagentleman.github.com/ublime/chanfle4.png)
+
 ## Schema Ghibli
 
 ![Schema Ghibli screenshot 1](http://imagentleman.github.com/ublime/ghibli1.png)
