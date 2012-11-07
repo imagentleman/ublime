@@ -5,7 +5,7 @@ Colorful and Black & White Color Schemes for Sublime Text (and TextMate).
 
 ### Manual Download
 
-- Download [this zip file](https://github.com/downloads/imagentleman/ublime/ublime2.zip) from the [_Downloads_](https://github.com/imagentleman/ublime/downloads) sections.
+- Download [this zip file](https://github.com/downloads/imagentleman/ublime/ublime3.zip) from the [_Downloads_](https://github.com/imagentleman/ublime/downloads) sections.
 - Unzip the files and copy the folder _ublime_ or the individual _.tmTheme_ files.
 - Paste the files anywhere in the Packages folder, which can be opened from Sublime Text via _Preferences -> Browse Packages_.
 
@@ -28,6 +28,16 @@ Select the Color Scheme via _Preferences -> Color Schemes.
 
 ![A Touch of Crayon screenshot 4](http://imagentleman.github.com/ublime/crayon4.png)
 
+### Toulouse-Lautrec
+
+![Toulouse-Lautrec screenshot 1](http://imagentleman.github.com/ublime/toulouse1.png)
+
+![Toulouse-Lautrec screenshot 2](http://imagentleman.github.com/ublime/toulouse2.png)
+
+![Toulouse-Lautrec screenshot 3](http://imagentleman.github.com/ublime/toulouse3.png)
+
+![Toulouse-Lautrec screenshot 4](http://imagentleman.github.com/ublime/toulouse4.png)
+
 ## Little Kachun
 
 ![Little Kachun screenshot 1](http://imagentleman.github.com/ublime/kachun1.png)
@@ -40,8 +50,6 @@ Select the Color Scheme via _Preferences -> Color Schemes.
 
 ## Kochia Hill
 
-Hot Pink. I think Paul Irish would be proud.
-
 ![Kochia screenshot 1](http://imagentleman.github.com/ublime/kochia1.png)
 
 ![Kochia screenshot 2](http://imagentleman.github.com/ublime/kochia2.png)
@@ -49,6 +57,16 @@ Hot Pink. I think Paul Irish would be proud.
 ![Kochia screenshot 3](http://imagentleman.github.com/ublime/kochia3.png)
 
 ![Kochia screenshot 4](http://imagentleman.github.com/ublime/kochia4.png)
+
+## Fantasy Script
+
+![Fantasy Script screenshot 1](http://imagentleman.github.com/ublime/fantasy1.png)
+
+![Fantasy Script screenshot 2](http://imagentleman.github.com/ublime/fantasy2.png)
+
+![Fantasy Script screenshot 3](http://imagentleman.github.com/ublime/fantasy3.png)
+
+![Fantasy Script screenshot 4](http://imagentleman.github.com/ublime/fantasy4.png)
 
 ## Arabian Nights
 
@@ -79,6 +97,16 @@ Hot Pink. I think Paul Irish would be proud.
 ![Schema Ghibli screenshot 3](http://imagentleman.github.com/ublime/ghibli3.png)
 
 ![Schema Ghibli screenshot 4](http://imagentleman.github.com/ublime/ghibli4.png)
+
+## Turn of the Century
+
+![Turn of the Century screenshot 1](http://imagentleman.github.com/ublime/turn1.png)
+
+![Turn of the Century screenshot 2](http://imagentleman.github.com/ublime/turn2.png)
+
+![Turn of the Century screenshot 3](http://imagentleman.github.com/ublime/turn3.png)
+
+![Turn of the Century screenshot 4](http://imagentleman.github.com/ublime/turn4.png)
 
 ## Anatomy of Grey
 
