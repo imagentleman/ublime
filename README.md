@@ -1,7 +1,7 @@
 # Ublime
 Colorful and Black & White Color Schemes for Sublime Text (and TextMate).
 
-## Installation
+## Installation for Sublime Text
 
 ### Manual Download
 
@@ -9,7 +9,7 @@ Colorful and Black & White Color Schemes for Sublime Text (and TextMate).
 - Unzip the files and copy the folder _ublime_ or the individual _.tmTheme_ files.
 - Paste the files anywhere in the Packages folder, which can be opened from Sublime Text via _Preferences -> Browse Packages_.
 
-### Automatic Download with Package Control
+### Automatic Download with [Package Control](https://github.com/wbond/sublime_package_control)
 
 - Just search for Ublime Color Schemes.
 
