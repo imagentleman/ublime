@@ -5,7 +5,7 @@ Colorful and Black & White Color Schemes for Sublime Text (and TextMate).
 
 ### Manual Download
 
-- Download [this zip file](https://github.com/downloads/imagentleman/ublime/ublime3.zip) from the [_Downloads_](https://github.com/imagentleman/ublime/downloads) sections.
+- Download [the repository in zip file](https://github.com/imagentleman/ublime/archive/master.zip).
 - Unzip the files and copy the folder _ublime_ or the individual _.tmTheme_ files.
 - Paste the files anywhere in the Packages folder, which can be opened from Sublime Text via _Preferences -> Browse Packages_.
 
