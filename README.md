@@ -18,15 +18,15 @@ Select the Color Scheme via _Preferences -> Color Schemes_.
 
 ## The Color Schemes
 
-### A Touch of Crayon
+## Once Upon a Time
 
-![A Touch of Crayon screenshot 1](http://imagentleman.github.com/ublime/crayon1.png)
+![Once Upon a Time screenshot 1](http://imagentleman.github.com/ublime/once1.png)
 
-![A Touch of Crayon screenshot 2](http://imagentleman.github.com/ublime/crayon2.png)
+![Once Upon a Time screenshot 2](http://imagentleman.github.com/ublime/once2.png)
 
-![A Touch of Crayon screenshot 3](http://imagentleman.github.com/ublime/crayon3.png)
+![Once Upon a Time screenshot 3](http://imagentleman.github.com/ublime/once3.png)
 
-![A Touch of Crayon screenshot 4](http://imagentleman.github.com/ublime/crayon4.png)
+![Once Upon a Time screenshot 4](http://imagentleman.github.com/ublime/once4.png)
 
 ### Toulouse-Lautrec
 
@@ -37,6 +37,26 @@ Select the Color Scheme via _Preferences -> Color Schemes_.
 ![Toulouse-Lautrec screenshot 3](http://imagentleman.github.com/ublime/toulouse3.png)
 
 ![Toulouse-Lautrec screenshot 4](http://imagentleman.github.com/ublime/toulouse4.png)
+
+## Fantasy Script
+
+![Fantasy Script screenshot 1](http://imagentleman.github.com/ublime/fantasy1.png)
+
+![Fantasy Script screenshot 2](http://imagentleman.github.com/ublime/fantasy2.png)
+
+![Fantasy Script screenshot 3](http://imagentleman.github.com/ublime/fantasy3.png)
+
+![Fantasy Script screenshot 4](http://imagentleman.github.com/ublime/fantasy4.png)
+
+### A Touch of Crayon
+
+![A Touch of Crayon screenshot 1](http://imagentleman.github.com/ublime/crayon1.png)
+
+![A Touch of Crayon screenshot 2](http://imagentleman.github.com/ublime/crayon2.png)
+
+![A Touch of Crayon screenshot 3](http://imagentleman.github.com/ublime/crayon3.png)
+
+![A Touch of Crayon screenshot 4](http://imagentleman.github.com/ublime/crayon4.png)
 
 ## Little Kachun
 
@@ -57,16 +77,6 @@ Select the Color Scheme via _Preferences -> Color Schemes_.
 ![Kochia screenshot 3](http://imagentleman.github.com/ublime/kochia3.png)
 
 ![Kochia screenshot 4](http://imagentleman.github.com/ublime/kochia4.png)
-
-## Fantasy Script
-
-![Fantasy Script screenshot 1](http://imagentleman.github.com/ublime/fantasy1.png)
-
-![Fantasy Script screenshot 2](http://imagentleman.github.com/ublime/fantasy2.png)
-
-![Fantasy Script screenshot 3](http://imagentleman.github.com/ublime/fantasy3.png)
-
-![Fantasy Script screenshot 4](http://imagentleman.github.com/ublime/fantasy4.png)
 
 ## Arabian Nights
 
