@@ -13,8 +13,12 @@ Colorful and Black & White Color Schemes for Sublime Text (and TextMate).
 
 - Just search for Ublime Color Schemes.
 
-## Applying the Color Schemes
+## Applying the Color Schemes in Sublime Text
 Select the Color Scheme via _Preferences -> Color Schemes_.
+
+## Installation for TextMate
+
+- Just double click the theme file (the file with a .tmTheme extension).
 
 ## The Color Schemes
 
