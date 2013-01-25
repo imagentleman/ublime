@@ -12,7 +12,7 @@
                 <key>background</key>
                 <string>#FFFFFF</string>
                 <key>caret</key>
-                <string>#ffffff</string>
+                <string>#333333</string>
                 <key>foreground</key>
                 <string>#333333</string>
                 <key>invisibles</key>
@@ -26,7 +26,7 @@
                 <key>findHighlightForeground</key>
                 <string>#000000</string>
                 <key>selectionBorder</key>
-                <string>#333333</string>
+                <string>#ebebeb</string>
             </dict>
         </dict>
         <dict>
@@ -37,7 +37,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#eeeeee</string>
+                <string>#ebebeb</string>
             </dict>
         </dict>
         <dict>
