@@ -20,13 +20,13 @@
                 <key>lineHighlight</key>
                 <string>#27334d</string>
                 <key>selection</key>
-                <string>#ffb1b1</string>
+                <string>#fff1f1</string>
                 <key>findHighlight</key>
                 <string>#FFE792</string>
                 <key>findHighlightForeground</key>
                 <string>#000000</string>
                 <key>selectionBorder</key>
-                <string>#ffc6c6</string>
+                <string>#ffd6d6</string>
             </dict>
         </dict>
         <dict>
