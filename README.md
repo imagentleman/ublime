@@ -22,6 +22,10 @@ Select the Color Scheme via _Preferences -> Color Schemes_.
 
 ## The Color Schemes
 
+## Cherry Blossom
+
+![Cherry Blossom screenshot 1](http://imagentleman.github.com/ublime/cherry.png)
+
 ## Once Upon a Time
 
 ![Once Upon a Time screenshot 1](http://imagentleman.github.com/ublime/once1.png)
