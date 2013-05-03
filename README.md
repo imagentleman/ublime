@@ -1,7 +1,7 @@
 # Ublime
-Colorful and Black & White Color Schemes for Sublime Text (and TextMate).
+Colorful and black and white Color Schemes for Sublime Text and themes for TextMate.
 
-## Installation for Sublime Text
+## How to install on Sublime Text
 
 ### Manual Download
 
@@ -16,11 +16,11 @@ Colorful and Black & White Color Schemes for Sublime Text (and TextMate).
 ## Applying the Color Schemes in Sublime Text
 Select the Color Scheme via _Preferences -> Color Schemes_.
 
-## Installation for TextMate
+## How to install on TextMate
 
 - Just double click the theme file (the file with a .tmTheme extension).
 
-## The Color Schemes
+# The Color Schemes
 
 ## Cherry Blossom
 
