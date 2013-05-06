@@ -1,24 +1,36 @@
 # Ublime
-Colorful and black and white Color Schemes for Sublime Text and themes for TextMate.
+Colorful and black and white Color Schemes for Sublime Text, themes for TextMate and Custom.css themes for Chrome DevTools.
 
 ## How to install on Sublime Text
 
 ### Manual Download
 
 - Download [the repository in zip file](https://github.com/imagentleman/ublime/archive/master.zip).
-- Unzip the files and copy the folder _ublime_ or the individual _.tmTheme_ files.
-- Paste the files anywhere in the Packages folder, which can be opened from Sublime Text via _Preferences -> Browse Packages_.
+- Unzip the files and copy the folder `ublime` or the individual `.tmTheme` files.
+- Paste the files anywhere in the Packages folder, which can be opened from Sublime Text via `Preferences -> Browse Packages`.
 
 ### Automatic Download with [Package Control](https://github.com/wbond/sublime_package_control)
 
-- Just search for Ublime Color Schemes.
+Just search for Ublime Color Schemes.
 
-## Applying the Color Schemes in Sublime Text
-Select the Color Scheme via _Preferences -> Color Schemes_.
+### Applying the Color Schemes in Sublime Text
+Select the Color Scheme via `Preferences -> Color Schemes`.
 
 ## How to install on TextMate
 
-- Just double click the theme file (the file with a .tmTheme extension).
+Just double click the theme file (`the file with a .tmTheme extension`).
+
+## How to install on Chrome DevTools
+
+Replace the empty `Custom.css` file in Chrome with the css file of the theme.
+
+They are located on:
+
+*Mac:* `~/Library/Application Support/Google/Chrome/Default/User StyleSheets/Custom.css`
+
+**PC:** `C:\Users\ReplaceWithThisWithYourUsername\AppData\Local\Google\Chrome\User Data\Default\User StyleSheets\Custom.css`
+
+**Ubuntu (Chromium):** `~/.config/chromium/Default/User StyleSheets/Custom.css`
 
 # The Color Schemes
 
