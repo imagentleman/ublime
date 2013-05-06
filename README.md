@@ -7,7 +7,7 @@ Colorful and black and white Color Schemes for Sublime Text, themes for TextMate
 
 - Download [the repository in zip file](https://github.com/imagentleman/ublime/archive/master.zip).
 - Unzip the files and copy the folder `ublime` or the individual `.tmTheme` files.
-- Paste the files anywhere in the Packages folder, which can be opened from Sublime Text via `Preferences -> Browse Packages`.
+- Paste the files anywhere in the Packages folder, which can be opened from Sublime Text via `Preferences > Browse Packages`.
 
 ### Automatic Download with [Package Control](https://github.com/wbond/sublime_package_control)
 
@@ -15,6 +15,18 @@ Just search for Ublime Color Schemes.
 
 ### Applying the Color Schemes in Sublime Text
 Select the Color Scheme via `Preferences -> Color Schemes`.
+
+### Tip
+
+You can apply different color schemes to different filetypes (for example, one for .js, another for .css and a third one for the rest as default).
+
+- In the menu go to `Preferences > Settings - More > Syntax Specific - User`. 
+- It will open a settings file for the extension of the current file.
+- Just write the appropriate .json configuration.
+
+Example:
+
+`{ "color_scheme": "Packages/LocationOfTheTheme/themeName.tmTheme" }`
 
 ## How to install on TextMate
 
