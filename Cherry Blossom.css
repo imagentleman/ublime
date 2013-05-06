@@ -1,0 +1,145 @@
+/* HTML */
+
+#-webkit-web-inspector .webkit-html-comment {
+  color: #ffb1b1 !important;
+}
+
+#-webkit-web-inspector .webkit-html-doctype {
+  color: #e7352b !important;
+}
+
+#-webkit-web-inspector .webkit-html-tag {
+  color: #27334d !important;
+}
+
+#-webkit-web-inspector .webkit-html-tag-name {
+  color: #e7352b !important;
+}
+
+#-webkit-web-inspector .webkit-html-attribute {
+  color: #e7352b !important;
+}
+
+#-webkit-web-inspector .webkit-html-attribute-name {
+  color: #555555 !important;
+}
+
+#-webkit-web-inspector .webkit-html-attribute-value {
+  color: #000 !important;
+}
+
+#-webkit-web-inspector .webkit-html-resource-link {
+  color: #653f28 !important;
+}
+
+
+/* CSS */
+
+#-webkit-web-inspector .webkit-css-comment {
+  color: #ffb1b1 !important;
+}
+
+#-webkit-web-inspector .webkit-css-url {
+
+}
+
+#-webkit-web-inspector .webkit-css-color {
+
+}
+
+#-webkit-web-inspector .webkit-css-selector {
+
+}
+
+#-webkit-web-inspector .webkit-css-property {
+  color: #d53a83 !important;
+}
+
+#-webkit-web-inspector .webkit-css-at-rule {
+
+}
+
+#-webkit-web-inspector .webkit-css-number {
+  color: #653f28 !important;
+}
+
+#-webkit-web-inspector .webkit-css-keyword {
+  color: #77787c !important;
+}
+
+#-webkit-web-inspector .webkit-css-string {
+
+}
+
+#-webkit-web-inspector .webkit-css-important {
+  color: #e7352b !important;
+}
+
+
+/* Javascript */
+
+#-webkit-web-inspector .webkit-javascript-comment {
+  color: #ffb1b1 !important;
+}
+
+#-webkit-web-inspector .webkit-javascript-keyword {
+  color: #4cd53a !important;
+}
+
+#-webkit-web-inspector .webkit-javascript-ident {
+
+}
+
+#-webkit-web-inspector .webkit-javascript-string {
+  color: #e7352b !important;
+}
+
+#-webkit-web-inspector .webkit-javascript-number {
+  color: #653f28 !important;
+}
+
+#-webkit-web-inspector .webkit-javascript-regexp {
+
+}
+
+/* Other */
+
+.outline-disclosure ol:focus li.selected .selection {
+  background-color: #fff1f1 !important;
+  border: 1px solid #ffd6d6 !important;
+}
+
+.outline-disclosure li.selected .selection {
+  background-color: #fff1f1 !important;
+}
+
+.webkit-search-result {
+  background-color: #FFE792 !important;
+}
+
+#-webkit-web-inspector .outline-disclosure ol:focus li.selected {
+  color: #000 !important;
+}
+
+#-webkit-web-inspector .resources.panel .sidebar :focus li.selected .selection {
+  background-color: #fff1f1 !important;
+  background-image: none !important;
+}
+
+/* Console */
+
+#-webkit-web-inspector .console-error-level .console-message-text, .console-error-level .section .header .title {
+  color: #e7352b !important;
+}
+
+#-webkit-web-inspector .console-user-command > .console-message-text {
+  color: #294f90 !important;
+}
+
+#-webkit-web-inspector .console-formatted-number {
+  color: #d53a83 !important;
+}
+
+#-webkit-web-inspector .console-formatted-string, .console-formatted-regexp {
+  color: #d53a83 !important;
+}
