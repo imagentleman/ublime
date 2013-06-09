@@ -5,7 +5,7 @@ Colorful and black and white Color Schemes for Sublime Text, themes for TextMate
 
 ### Manual Download
 
-- Download [the repository in zip file](https://github.com/imagentleman/ublime/archive/master.zip).
+- Download the repository in this [zip file](https://github.com/imagentleman/ublime/archive/master.zip).
 - Unzip the files and copy the folder `ublime` or the individual `.tmTheme` files.
 - Paste the files anywhere in the Packages folder, which can be opened from Sublime Text via `Preferences > Browse Packages`.
 
@@ -34,11 +34,11 @@ Just double click the theme file (`the file with a .tmTheme extension`).
 
 ## How to install on Chrome DevTools
 
-Replace the empty `Custom.css` file in Chrome with the css file of the theme.
+Replace the empty `Custom.css` file in the Chrome profile folder with the css file of the theme from the zip.
 
-They are located on:
+The `Custom.css` can be found in:
 
-*Mac:* `~/Library/Application Support/Google/Chrome/Default/User StyleSheets/Custom.css`
+**Mac:** `~/Library/Application Support/Google/Chrome/Default/User StyleSheets/Custom.css`
 
 **PC:** `C:\Users\ReplaceWithThisWithYourUsername\AppData\Local\Google\Chrome\User Data\Default\User StyleSheets\Custom.css`
 
