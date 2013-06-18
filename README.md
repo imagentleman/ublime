@@ -46,6 +46,10 @@ The `Custom.css` can be found in:
 
 # The Color Schemes
 
+## Lima
+
+![Lima screenshot 1](http://imagentleman.github.com/ublime/lima.png)
+
 ## Cherry Blossom
 
 ![Cherry Blossom screenshot 1](http://imagentleman.github.com/ublime/cherry.png)
