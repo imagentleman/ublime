@@ -46,6 +46,18 @@ The `Custom.css` can be found in:
 
 # The Color Schemes
 
+## Limon
+
+![Limon screenshot 1](http://imagentleman.github.com/ublime/limon.png)
+
+### A Touch of Crayon
+
+![A Touch of Crayon screenshot 2](http://imagentleman.github.com/ublime/crayon2.png)
+
+![A Touch of Crayon screenshot 3](http://imagentleman.github.com/ublime/crayon3.png)
+
+![A Touch of Crayon screenshot 4](http://imagentleman.github.com/ublime/crayon4.png)
+
 ## Lima
 
 ![Lima screenshot 1](http://imagentleman.github.com/ublime/lima.png)
@@ -83,16 +95,6 @@ The `Custom.css` can be found in:
 ![Fantasy Script screenshot 3](http://imagentleman.github.com/ublime/fantasy3.png)
 
 ![Fantasy Script screenshot 4](http://imagentleman.github.com/ublime/fantasy4.png)
-
-### A Touch of Crayon
-
-![A Touch of Crayon screenshot 1](http://imagentleman.github.com/ublime/crayon1.png)
-
-![A Touch of Crayon screenshot 2](http://imagentleman.github.com/ublime/crayon2.png)
-
-![A Touch of Crayon screenshot 3](http://imagentleman.github.com/ublime/crayon3.png)
-
-![A Touch of Crayon screenshot 4](http://imagentleman.github.com/ublime/crayon4.png)
 
 ## Little Kachun
 
