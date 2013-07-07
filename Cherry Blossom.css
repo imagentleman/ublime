@@ -32,6 +32,14 @@
   color: #653f28 !important;
 }
 
+#-webkit-web-inspector .outline-disclosure ol:focus li.parent.selected::before {
+    content: url(chrome-devtools://devtools/Images/treeRightTriangleBlack.png) !important;
+}
+
+#-webkit-web-inspector .outline-disclosure ol:focus li.parent.expanded.selected::before {
+    content: url(chrome-devtools://devtools/Images/treeDownTriangleBlack.png) !important;
+}
+
 
 /* CSS */
 
