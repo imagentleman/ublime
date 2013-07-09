@@ -33,13 +33,8 @@
 }
 
 #-webkit-web-inspector .outline-disclosure ol:focus li.parent.selected::before {
-    content: url(chrome-devtools://devtools/Images/treeRightTriangleBlack.png) !important;
+    background-color: #27334d !important;
 }
-
-#-webkit-web-inspector .outline-disclosure ol:focus li.parent.expanded.selected::before {
-    content: url(chrome-devtools://devtools/Images/treeDownTriangleBlack.png) !important;
-}
-
 
 /* CSS */
 
