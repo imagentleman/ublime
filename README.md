@@ -46,7 +46,7 @@ The `Custom.css` can be found in:
 
 # The Color Schemes
 
-## Gruntila
+## Gruntilda
 
 ![Gruntilda screenshot 1](http://imagentleman.github.io/ublime/gruntilda.png)
 
