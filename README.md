@@ -46,9 +46,9 @@ The `Custom.css` can be found in:
 
 # The Color Schemes
 
-## Teito University
+## Gruntila
 
-![Teito University screenshot 1](http://imagentleman.github.io/ublime/teito.png)
+![Gruntilda screenshot 1](http://imagentleman.github.io/ublime/gruntilda.png)
 
 ### A Touch of Crayon
 
@@ -57,6 +57,10 @@ The `Custom.css` can be found in:
 ![A Touch of Crayon screenshot 3](http://imagentleman.github.io/ublime/crayon3.png)
 
 ![A Touch of Crayon screenshot 4](http://imagentleman.github.io/ublime/crayon4.png)
+
+## Teito University
+
+![Teito University screenshot 1](http://imagentleman.github.io/ublime/teito.png)
 
 ## Lima
 
