@@ -189,3 +189,7 @@ The `Custom.css` can be found in:
 ### Where does the name Ublime come from?
 
 Shakira.
+
+### Other works
+
+[http://imagentleman.github.io](http://imagentleman.github.io)
