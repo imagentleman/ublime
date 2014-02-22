@@ -32,7 +32,7 @@ Example:
 
 Just double click the theme file (`the file with a .tmTheme extension`).
 
-## How to install on Chrome DevTools
+## How to install on Chrome DevTools (Chrome 32-)
 
 Replace the empty `Custom.css` file in the Chrome profile folder with the css file of the theme from the zip.
 
@@ -43,6 +43,8 @@ The `Custom.css` can be found in:
 **PC:** `C:\Users\ReplaceWithThisWithYourUsername\AppData\Local\Google\Chrome\User Data\Default\User StyleSheets\Custom.css`
 
 **Ubuntu (Chromium):** `~/.config/chromium/Default/User StyleSheets/Custom.css`
+
+Note: Since Chrome 33 you need to enable a flag and use the custom.css file via an extension. Follow the instructions [here](http://stackoverflow.com/questions/21207474/custom-css-stop-to-work-in-32-0-1700-76-m-google-chrome-update), or use this [sample extension](https://github.com/paulirish/sample-devtools-theme-extension), or read the whole story from the [chromium](https://code.google.com/p/chromium/issues/detail?id=318566) people.
 
 # The Color Schemes
 
