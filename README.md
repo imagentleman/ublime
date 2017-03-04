@@ -28,6 +28,14 @@ Example:
 
 `{ "color_scheme": "Packages/LocationOfTheTheme/themeName.tmTheme" }`
 
+## How to install on Atom
+
+### Manual Download
+
+- Download the repository in this [zip file](https://github.com/imagentleman/ublime/archive/master.zip).
+- Unzip the files and copy the individual theme folders (e.g. `gruntilda-syntax`) you want.
+- Paste the files in Atom's Packages folder, which can be found on `~/.atom/packages` on Mac and on `c:\Users\yourusername\.atom\packages` on Windows.
+
 ## How to install on TextMate
 
 Just double click the theme file (`the file with a .tmTheme extension`).
