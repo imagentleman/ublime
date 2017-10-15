@@ -1,0 +1,22 @@
+{
+    "name": "limon",
+    "displayName": "Limon",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "imagentleman",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Limon",
+                "uiTheme": "vs",
+                "path": "./themes/Limon-color-theme.json"
+            }
+        ]
+    }
+}

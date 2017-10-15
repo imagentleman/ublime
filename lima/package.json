@@ -1,0 +1,22 @@
+{
+    "name": "lima",
+    "displayName": "Lima",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "imagentleman",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lima",
+                "uiTheme": "vs",
+                "path": "./themes/Lima-color-theme.json"
+            }
+        ]
+    }
+}

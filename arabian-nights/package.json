@@ -1,0 +1,22 @@
+{
+    "name": "arabian-nights",
+    "displayName": "Arabian Nights",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "imagentleman",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Arabian Nights",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arabian Nights-color-theme.json"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "little-kachun",
+    "displayName": "Little Kachun",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "imagentleman",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Little Kachun",
+                "uiTheme": "vs",
+                "path": "./themes/Little Kachun-color-theme.json"
+            }
+        ]
+    }
+}

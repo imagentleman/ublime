@@ -1,0 +1,22 @@
+{
+    "name": "chanfle",
+    "displayName": "Chanfle",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "imagentleman",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Chanfle",
+                "uiTheme": "vs",
+                "path": "./themes/Chanfle-color-theme.json"
+            }
+        ]
+    }
+}

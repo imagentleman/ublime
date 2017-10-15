@@ -1,0 +1,22 @@
+{
+    "name": "teito-university",
+    "displayName": "Teito University",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "imagentleman",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Teito University",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Teito University-color-theme.json"
+            }
+        ]
+    }
+}

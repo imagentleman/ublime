@@ -1,0 +1,22 @@
+{
+    "name": "anatomy-of-grey",
+    "displayName": "Anatomy of Grey",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "imagentleman",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Anatomy of Grey",
+                "uiTheme": "vs",
+                "path": "./themes/Anatomy of Grey-color-theme.json"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "turn-of-the-century",
+    "displayName": "Turn of the Century",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "imagentleman",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Turn of the Century",
+                "uiTheme": "vs",
+                "path": "./themes/Turn of the Century-color-theme.json"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "fantasy-script",
+    "displayName": "Fantasy Script",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "imagentleman",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fantasy Script",
+                "uiTheme": "vs",
+                "path": "./themes/Fantasy Script-color-theme.json"
+            }
+        ]
+    }
+}

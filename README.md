@@ -1,5 +1,5 @@
 # Ublime
-Colorful and black and white Color Schemes for Sublime Text, themes for TextMate and Custom.css themes for Chrome DevTools.
+Colorful and black and white Color Schemes for Sublime Text, and themes for Visual Studio Code, TextMate and Custom.css themes for Chrome DevTools.
 
 ## How to install on Sublime Text
 
@@ -20,13 +20,21 @@ Select the Color Scheme via `Preferences -> Color Schemes`.
 
 You can apply different color schemes to different filetypes (for example, one for .js, another for .css and a third one for the rest as default).
 
-- In the menu go to `Preferences > Settings - More > Syntax Specific - User`. 
+- In the menu go to `Preferences > Settings - More > Syntax Specific - User`.
 - It will open a settings file for the extension of the current file.
 - Just write the appropriate .json configuration.
 
 Example:
 
 `{ "color_scheme": "Packages/LocationOfTheTheme/themeName.tmTheme" }`
+
+## How to install on Visual Studio Code
+
+### Manual Download
+
+- Download the repository in this [zip file](https://github.com/imagentleman/ublime/archive/master.zip).
+- Unzip the files and copy the individual theme folders (e.g. `gruntilda-syntax`) you want.
+- Paste the files in Visual Studio Code's extensions folder, which can be found on `~/.vscode/extensions` on Mac and on `c:\Users\yourusername\.vscode\extensions` on Windows.
 
 ## How to install on Atom
 

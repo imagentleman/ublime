@@ -1,0 +1,22 @@
+{
+    "name": "once-upon-a-time",
+    "displayName": "Once Upon a Time",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "imagentleman",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Once Upon a Time",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Once Upon a Time-color-theme.json"
+            }
+        ]
+    }
+}
