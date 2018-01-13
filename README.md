@@ -30,11 +30,15 @@ Example:
 
 ## How to install on Visual Studio Code
 
+### Automatic Download
+
+Visit https://marketplace.visualstudio.com/items?itemName=imagentleman.ublime-themes and click on "Install".
+
 ### Manual Download
 
 - Download the repository in this [zip file](https://github.com/imagentleman/ublime/archive/master.zip).
-- Unzip the files and copy the individual theme folders (e.g. `gruntilda`) you want (the ones without the suffix `syntax`, which are for Atom).
-- Paste the files in Visual Studio Code's extensions folder, which can be found on `~/.vscode/extensions` on Mac and on `c:\Users\yourusername\.vscode\extensions` on Windows.
+- Unzip the file and copy the vscode-ublime-themes folder.
+- Paste the folder in Visual Studio Code's extensions folder, which can be found on `~/.vscode/extensions` on Mac and on `c:\Users\yourusername\.vscode\extensions` on Windows.
 
 ## How to install on Atom
 

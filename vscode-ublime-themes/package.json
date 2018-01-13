@@ -1,0 +1,109 @@
+{
+    "name": "ublime-themes",
+    "displayName": "Ublime Themes",
+    "description": "",
+    "version": "1.0.0",
+    "publisher": "imagentleman",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "A Touch of Crayon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/A Touch of Crayon-color-theme.json"
+            },
+            {
+                "label": "A Touch of Crayon Easter Egg Edition",
+                "uiTheme": "vs-dark",
+                "path": "./themes/A Touch of Crayon Easter Egg Edition-color-theme.json"
+            },
+            {
+                "label": "Anatomy of Grey",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Anatomy of Grey-color-theme.json"
+            },
+            {
+                "label": "Anatomy of Grey Light",
+                "uiTheme": "vs",
+                "path": "./themes/Anatomy of Grey Light-color-theme.json"
+            },
+            {
+                "label": "Arabian Nights",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arabian Nights-color-theme.json"
+            },
+            {
+                "label": "Chanfle",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Chanfle-color-theme.json"
+            },
+            {
+                "label": "Cherry Blossom",
+                "uiTheme": "vs",
+                "path": "./themes/Cherry Blossom-color-theme.json"
+            },
+            {
+                "label": "Fantasy Script",
+                "uiTheme": "vs",
+                "path": "./themes/Fantasy Script-color-theme.json"
+            },
+            {
+                "label": "Gruntilda",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gruntilda-color-theme.json"
+            },
+            {
+                "label": "Kochia Hill",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kochia Hill-color-theme.json"
+            },
+            {
+                "label": "Lima",
+                "uiTheme": "vs",
+                "path": "./themes/Lima-color-theme.json"
+            },
+            {
+                "label": "Limon",
+                "uiTheme": "vs",
+                "path": "./themes/Limon-color-theme.json"
+            },
+            {
+                "label": "Little Kachun",
+                "uiTheme": "vs",
+                "path": "./themes/Little Kachun-color-theme.json"
+            },
+            {
+                "label": "Once Upon a Time",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Once Upon a Time-color-theme.json"
+            },
+            {
+                "label": "Schema Ghibli",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Schema Ghibli-color-theme.json"
+            },
+            {
+                "label": "Teito University",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Teito University-color-theme.json"
+            },
+            {
+                "label": "Toulousse Lautrec",
+                "uiTheme": "vs",
+                "path": "./themes/Toulousse-Lautrec-color-theme.json"
+            },
+            {
+                "label": "Turn of the Century",
+                "uiTheme": "vs",
+                "path": "./themes/Turn of the Century-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon.png",
+    "repository": "https://github.com/imagentleman/ublime"
+}
