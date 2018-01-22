@@ -2,7 +2,7 @@
     "name": "ublime-themes",
     "displayName": "Ublime Themes",
     "description": "",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "imagentleman",
     "engines": {
         "vscode": "^1.17.0"
@@ -101,9 +101,22 @@
                 "label": "Turn of the Century",
                 "uiTheme": "vs",
                 "path": "./themes/Turn of the Century-color-theme.json"
+            },
+            {
+                "label": "Star Trek Discovery",
+                "uiTheme": "vs",
+                "path": "./themes/Star Trek Discovery-color-theme.json"
+            },
+            {
+                "label": "Star Trek Discovery Mirror Universe",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Star Trek Discovery Mirror Universe-color-theme.json"
             }
         ]
     },
-    "icon": "icon.png",
-    "repository": "https://github.com/imagentleman/ublime"
+    "__metadata": {
+        "id": "d5fdab19-7f35-4ea7-878b-2a7a7c6c8d2f",
+        "publisherDisplayName": "imagentleman",
+        "publisherId": "c2ff7295-587c-4c14-8889-311d42d4b3c2"
+    }
 }
